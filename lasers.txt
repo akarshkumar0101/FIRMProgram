@@ -1,0 +1,17 @@
+CO2 10.6E-6
+CO 2.6E-6
+Iodine 1.315E-6
+InGaAsP 1.0E-6
+Ruby 694.3E-9
+HeNe 632.8E-9
+Xenon3+ 539.5E-9
+Ar 454.6E-9
+Kr 416E-9
+XeF-Excimer 353E-9
+N 337.1E-9
+XeCl-Excimer 308E-9
+KrF-Excimer 248E-9
+KrCl-Excimer 222E-9
+ArF-Excimer 193E-9
+F2-Excimer 157E-9
+Sm 7.3E-9
